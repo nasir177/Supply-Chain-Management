@@ -1,0 +1,13 @@
+# Java / Maven (sorascm)
+backend/target/
+backend/.idea/
+backend/*.iml
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# System / OS
+.DS_Store
+*.log
